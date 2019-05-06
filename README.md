@@ -38,6 +38,12 @@ b40.solution_value, b30.solution_value  # gives 6,2
 
 # Example of premiere league
 ```python
+'''
+3w + d = 100
+w + d = 38
+solving: w = 31 and d = 7
+'''
+
 from docplex.mp.model import Model
 
 mdl = Model(name='premiere_league')
