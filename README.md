@@ -7,7 +7,7 @@ Table of Contents
 # Using the IBM virtual machine
 1. Go to https://www.ibm.com/cloud/garage/dte/tutorial/create-and-run-optimization-model-python
 2. Go to top right corner and click Login. (IBMid: full ou email and continue.)
-3. Right corner: Before you start: Country ==> United States and try it for ==> 4 hours.
+3. Right corner (MyIBM): Before you start: Country ==> United States and try it for ==> 4 hours.
 4. Click on the link sent from email and use temporaray password given in email (dont add extra spaces).
 5. Double click and open jupyter-notebook.
 6. Make the window large and go right top corner to create new python3 notebook.
